@@ -1,3 +1,5 @@
+**Reference:** https://www.c-sharpcorner.com/article/lazy-loading-in-angular-with-example/
+
 # LazyDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
